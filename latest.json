@@ -1,0 +1,10 @@
+{
+  "version": "2.1.0",
+  "date": "13 November 2026",
+  "notes": "First release of Feather Clipboard Manager: clipboard history for text, pictures and files, kept only on your PC.",
+  "windows": {
+    "url": "https://raw.githubusercontent.com/akshsim1991/FeatherClipboardManager-releases/main/FeatherClipboardManager-Setup-2.1.0.exe",
+    "sha256": "8ab030ebe49573ca871912780d777b83a6091939dca4e8f37195e630dff8de06",
+    "size": 746829
+  }
+}
