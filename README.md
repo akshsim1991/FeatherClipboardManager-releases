@@ -1,0 +1,1 @@
+# FeatherClipboardManager-releases
