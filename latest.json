@@ -1,10 +1,10 @@
 {
-  "version": "2.1.1",
+  "version": "2.2.0",
   "date": "13 November 2026",
-  "notes": "New one-screen installer: pick the install location and press Install. Fixes the cut-off sentence on the last page of Setup.",
+  "notes": "Shortcut picker (press the keys you want), stops recording when the disk is almost full, Delete everything command, search words highlighted in the list.",
   "windows": {
-    "url": "https://raw.githubusercontent.com/akshsim1991/FeatherClipboardManager-releases/main/FeatherClipboardManager-Setup-2.1.1.exe",
-    "sha256": "ce6c70d49cda9416ae987c6c38723b32fad17ccf182e48dcbe38196ae4b290fe",
-    "size": 747114
+    "url": "https://raw.githubusercontent.com/akshsim1991/FeatherClipboardManager-releases/main/FeatherClipboardManager-Setup-2.2.0.exe",
+    "sha256": "ae933f7a0dfcf89741afb569f9fadc30b78276e47c615a373c2ee24a58ead3d4",
+    "size": 759182
   }
 }
